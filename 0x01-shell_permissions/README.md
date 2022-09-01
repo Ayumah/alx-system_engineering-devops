@@ -11,3 +11,4 @@ File: 8-James_bond - sets permissions to the file hello as follows :Owner: no pe
 File: 10-mirror_permissions - sets the mode of the file hello the same as olleh’s mode
 File: 11-directories_permissions - adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
 File: 13-change_group -  changes the group owner to school for the file hello
+File: 12-directory_permissions - creates a directory called my_dir with permissions 751 in the working directory
